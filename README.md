@@ -1,6 +1,6 @@
 # If-Else and Else-If Ladder Practice
 
-## Problem List
+## 🔹 Problem List
 
 | Problem No. | Name                          | Solution Code (Link) |
 |------------|--------------------------------|----------------------|
@@ -9,3 +9,15 @@
 | 3          | Minimum Number of Notes       | [Solution](#)       |
 | 4          | Triangle Type Check           | [Solution](#)       |
 | 5          | Electricity Bill Calculation  | [Solution](#)       |
+
+# Loops practise I
+
+## 🔹 Problem List
+
+| Problem No. | Name                                              | Solution Code (Link) |
+|------------|-------------------------------------------------|----------------------|
+| 1          | Sum of First and Last Digit                      | [Solution](#)       |
+| 2          | Product of Digits                                | [Solution](#)       |
+| 3          | Check Palindrome Number                          | [Solution](#)       |
+| 4          | Power of a Number Using Loop                     | [Solution](#)       |
+| 5          | Fibonacci Series Using Loop                      | [Solution](#)       |
