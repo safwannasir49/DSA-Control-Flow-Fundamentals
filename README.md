@@ -42,3 +42,16 @@
 | 3          | Print All Prime Numbers (1 to N)       | [Solution](#)       |
 | 4          | Find Prime Factors of a Number         | [Solution](#)       |
 
+
+# Loops Practice 3
+
+## 🔹 Problem List
+
+| #  | Problem No. | Name                          | Solution Code (Link) |
+|----|------------|--------------------------------|----------------------|
+| 1  | 1          | LCM of two Numbers            | [LCM Solution](#) |
+| 2  | 2          | HCF (GCD) of two Numbers      | [HCF Solution](#) |
+| 3  | 3          | Check Armstrong Number        | [Armstrong Check](#) |
+| 4  | 4          | Print Armstrong Numbers       | [Armstrong Numbers](#) |
+
+
