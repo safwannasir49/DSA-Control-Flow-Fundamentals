@@ -42,7 +42,7 @@
 | 3          | Print All Prime Numbers (1 to N)       | [Solution](#)       |
 | 4          | Find Prime Factors of a Number         | [Solution](#)       |
 
-
+<br><br>
 # Loops Practice 3
 
 ## 🔹 Problem List
