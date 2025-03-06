@@ -54,4 +54,24 @@
 | 3  | 3          | Check Armstrong Number        | [Armstrong Check](#) |
 | 4  | 4          | Print Armstrong Numbers       | [Armstrong Numbers](#) |
 
+<br><br>
+
+# 🔹 Pattern Problems - Square and Rhombus Star Patterns
+
+
+## 🔹 Square Star Patterns
+
+| Problem No. | Name                                      | Solution Code (Link) |
+|------------|-----------------------------------------|----------------------|
+| 1          | Square Star Pattern                    | [Solution](#)       |
+| 2          | Hollow Square Star Pattern             | [Solution](#)       |
+| 3          | Hollow Square Star Pattern with Diagonal | [Solution](#)       |
+
+## 🔹 Rhombus Star Patterns
+
+| Problem No. | Name                              | Solution Code (Link) |
+|------------|----------------------------------|----------------------|
+| 4          | Rhombus Star Pattern             | [Solution](#)       |
+| 5          | Mirrored Rhombus Star Pattern    | [Solution](#)       |
+
 
